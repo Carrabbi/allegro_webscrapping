@@ -1,0 +1,132 @@
+name;company;technology;job;salary_low;salary_high;salary_currency;location_city;location_country
+Product Data Analyst;No Fluff Jobs;N/A;data analyst;12 000;18 000;PLN;Zdalna;N/A
+UI Designer;HL Tech;N/A;data analyst;8 000;11 000;PLN;Zdalna;N/A
+Senior Business System Analyst;Devire;N/A;data analyst;18 000;24 000;PLN;Zdalna;N/A
+Data Analyst (Private Equity);Devire;N/A;data analyst;12 000;18 000;PLN;Warsaw;POL
+Junior Data Analyst;Coinfirm;mysql;data analyst;3 100;5 000;PLN;Zdalna;N/A
+Data Analyst;Philip Morris International;N/A;data analyst;17 000;20 000;PLN;Zdalna;N/A
+Junior Data analyst (analityk danych);Alterdata.io sp. z o.o.;N/A;data analyst;5 000;10 000;PLN;Zdalna;N/A
+Data analyst (analityk danych);Alterdata.io sp. z o.o.;N/A;data analyst;12 000;18 000;PLN;Zdalna;N/A
+UX Researcher;NOVOMATIC Technologies Poland S.A.;N/A;data analyst;10 080;18 970;PLN;Zdalna;N/A
+Engineering Operations Specialist;Beekeeper AG;N/A;data analyst;8 000;10 500;PLN;Kraków;POL
+Business Analyst/Senior Business Analyst;SoftServe;N/A;data analyst;11 000;21 500;PLN;Zdalna;N/A
+UX Designer;Profitroom S.A.;N/A;data analyst;8 000;12 500;PLN;Zdalna;N/A
+Data Analyst;KANTAR Polska;N/A;data analyst;8 000;13 000;PLN;Warszawa;POL
+Cloud Solutions Architect;Grape Up;aws;data analyst;21 000;34 000;PLN;Kraków;POL
+Senior Data Analyst;Smartpatient;N/A;data analyst;11 000;17 500;PLN;Zdalna;N/A
+Senior JavaScript Developer;Sigma IT Polska;javascript;data analyst;20 000;22 340;PLN;Zdalna;N/A
+IT Data Business Analyst (remote);Mindbox S.A.;N/A;data analyst;21 000;23 730;PLN;Zdalna;N/A
+Data Team Leader;Datafeedwatch;N/A;data analyst;20 000;25 000;PLN;Zdalna;N/A
+Junior Engineering Operations Specialist;Beekeeper AG;N/A;data analyst;6 000;8 500;PLN;Kraków;POL
+Product Data Analyst;Jamf;N/A;data analyst;6 500;8 500;PLN;Zdalna;N/A
+Data Analyst;John Leggy;N/A;data analyst;7 000;12 000;PLN;Warszawa;POL
+Data Analyst;AVENGA;N/A;data analyst;18 480;21 840;PLN;Warszawa;POL
+Remote Data Analyst;Mindbox;N/A;data analyst;23 100;27 300;PLN;Zdalna;N/A
+Sales Development Representative;Netguru;N/A;data analyst;5 000;7 600;PLN;Zdalna;N/A
+Data Analyst;Codecool;N/A;data analyst;10 215;15 322;PLN;Zdalna;N/A
+Data Engineer;AVENGA;sql;data engineer;15 120;20 160;PLN;Zdalna;N/A
+Big Data Engineer;RTB House;java;data engineer;28 500;47 000;PLN;Zdalna;N/A
+Lead Data Engineer;Ex Parte, Inc;python;data engineer;19 832;33 715;PLN;Zdalna;N/A
+Remote Data Engineer;TantusData;spark;data engineer;28 000;40 000;PLN;Zdalna;N/A
+Senior Data Engineer;IIIT;aws;data engineer;25 000;34 000;PLN;Zdalna;N/A
+Data Engineer;Avanade Poland;azure;data engineer;15 120;25 200;PLN;Zdalna;N/A
+Data Security Engineer;Dun & Bradstreet;Database Protection;data engineer;16 000;25 000;PLN;Zdalna;N/A
+Data Engineer;Devire;SQL;data engineer;31 920;36 960;PLN;Zdalna;N/A
+Azure Big Data Engineer with Python;Sii Polska;Azure;data engineer;16 800;29 400;PLN;Zdalna;N/A
+DWH/Big Data Engineer;Sii Polska;N/A;data engineer;21 000;26 250;PLN;Warszawa;POL
+Data Engineer;Avanade Poland;SQL;data engineer;15 000;25 000;PLN;Warszawa;POL
+Cloud Engineer for Data Platforms;Bayer;N/A;data engineer;17 000;25 000;PLN;Zdalna;N/A
+Scala Big Data Engineer;VirtusLab;spark;data engineer;13 000;20 000;PLN;Zdalna;N/A
+Remote Senior Big Data Engineer;Varwise;spark;data engineer;24 000;30 000;PLN;Zdalna;N/A
+Senior Data Engineer (Python);Luxoft Poland;python;data engineer;18 000;21 000;PLN;Zdalna;N/A
+Cloud Data Engineer - data US startup;From Poland With Dev;SQL;data engineer;13 000;19 000;PLN;Zdalna;N/A
+Data Engineer;Link Group;spark;data engineer;20 000;28 000;PLN;Wrocław;POL
+Data Engineer;Volvo Group;spark;data engineer;14 000;21 000;PLN;Zdalna;N/A
+Senior Data Engineer(.NET) - Allegro Pay;Allegro;spark;data engineer;16 500;22 500;PLN;Warszawa;POL
+Data Engineer - Allegro Pay;Allegro;spark;data engineer;12 500;17 000;PLN;Warszawa;POL
+Senior Data Engineer;Philip Morris International;spark;data engineer;21 000;27 000;PLN;Zdalna;N/A
+Remote Junior Data Engineer;Axis Group;Python/Java/Scala;data engineer;5 000;9 500;PLN;Zdalna;N/A
+Data Engineer (mid/hybrid work);Antal;SQL;data engineer;14 000;20 000;PLN;Zdalna;N/A
+Data Engineer;Capgemini;spark;data engineer;13 000;20 000;PLN;Krakow;POL
+Data Engineer (Azure);Accenture;Azure;data engineer;14 500;23 000;PLN;Zdalna;N/A
+Junior Data Engineer SQL, Python, Cloud;Alterdata.io sp. z o.o.;data engineering;data engineer;5 000;10 000;PLN;Zdalna;N/A
+Data Engineer;esky.pl S.A.;python;data engineer;11 000;14 000;PLN;Zdalna;N/A
+Senior Software Engineer (Big Data Team);Allegro;java;data engineer;16 500;22 500;PLN;Poznań;POL
+Software Engineer for Big Data Team;Allegro;java;data engineer;12 500;17 000;PLN;Poznań;POL
+Senior Big Data Engineer;Allegro;spark;data engineer;16 500;22 500;PLN;Poznań;POL
+Remote Data Engineer;Narwhal Data Solutions GmbH;N/A;data engineer;27 000;38 000;PLN;Zdalna;N/A
+Big Data Engineer;Allegro;spark;data engineer;12 500;17 000;PLN;Poznań;POL
+Data Warehouse Engineer (Remote);Narwhal Data Solutions GmbH;N/A;data engineer;27 000;38 000;PLN;Zdalna;N/A
+Data Engineer (SQL, Python, Cloud);Alterdata.io sp. z o.o.;data engineering;data engineer;14 000;22 000;PLN;Zdalna;N/A
+Remote Azure Data Engineer;Infosys Consulting;SQL;data engineer;20 000;28 000;PLN;Zdalna;N/A
+Data Engineer;Luxoft Poland;N/A;data engineer;11 000;22 000;PLN;Zdalna;N/A
+Senior GCP Data Engineer/DataOps;GetInData;Google Cloud Platform;data engineer;25 200;33 600;PLN;Zdalna;N/A
+Junior Cloud Data Engineer – Akademia;Onwelo S.A.;python;data engineer;3 800;4 000;PLN;Warszawa;POL
+Data & Process Engineer (Chemical Eng.);IIIT;N/A;data engineer;20 000;30 000;PLN;Zdalna;N/A
+Data Engineer (Wroclaw);Unit8 SA;hadoop;data engineer;16 000;24 000;PLN;Wrocław;POL
+Data Engineer;Authority Partners;Snowflake;data engineer;16 632;19 824;PLN;Zdalna;N/A
+Senior Java Engineer - Data Science;OpenX;java;data engineer;13 000;19 000;PLN;Zdalna;N/A
+Junior Cloud Data Engineer – Akademia;Onwelo S.A.;N/A;data engineer;3 700;4 000;PLN;Warszawa;POL
+Data Engineer;BRAINLY;N/A;data engineer;11 500;20 000;PLN;Zdalna;N/A
+BI Developer / Data Engineer;Objectivity;N/A;data engineer;17 600;22 600;PLN;Zdalna;N/A
+Middle/Senior Big Data Engineer (id 312);InterLogic Danmark ApS;N/A;data engineer;15 000;26 000;PLN;Gdańsk;POL
+Data Engineer (ETL);Onwelo S.A.;N/A;data engineer;13 650;17 850;PLN;Warszawa;POL
+AWS Data Engineer (Mid/Senior);Onwelo S.A.;aws;data engineer;14 700;21 000;PLN;Zdalna;N/A
+Cloud Data Engineer;AVENGA;python;data engineer;19 320;20 160;PLN;Zdalna;N/A
+Mid Python Data Engineer;Acaisoft Poland Sp. z.o.o;python;data engineer;12 000;19 000;PLN;Zdalna;N/A
+BI & Data Warehouse Engineer;Payability;N/A;data engineer;20 000;25 000;PLN;Katowice;POL
+Data Engineer (Krakow);Unit8 SA;N/A;data engineer;16 000;24 000;PLN;Kraków;POL
+Software Engineer (Oracle, BI, Big Data);AVENGA;N/A;data engineer;20 000;26 000;PLN;Zdalna;N/A
+Software Engineer - Reference Data;Link Group;SQL;data engineer;22 000;24 000;PLN;Warszawa;POL
+Data Engineer - Technical Leader;Acaisoft Poland Sp. z.o.o;python;data engineer;27 000;35 000;PLN;Zdalna;N/A
+Senior/Expert Data Engineer;Acaisoft Poland Sp. z.o.o;python;data engineer;20 000;33 000;PLN;Zdalna;N/A
+Azure Data Engineer with PySpark;Lingaro;Azure;data engineer;26 880;30 240;PLN;Zdalna;N/A
+Senior Big Data Engineer;Devire;spark;data engineer;26 000;32 000;PLN;Zdalna;N/A
+Remote Data Engineer;Netguru;N/A;data engineer;12 000;18 000;PLN;Zdalna;N/A
+Data Engineer;Unit8 SA;N/A;data engineer;16 000;24 000;PLN;Wrocław;POL
+BI Data Engineer;Link Group;N/A;data engineer;15 120;18 480;PLN;Zdalna;N/A
+Data Engineer;Sollers Consulting;N/A;data engineer;13 000;18 000;PLN;Warszawa;POL
+Remote Big Data Software Engineer;SoftServe;hadoop;data engineer;16 000;24 000;PLN;Zdalna;N/A
+IT Data Engineer;B. Braun Business Services Poland;N/A;data engineer;5 000;7 500;PLN;Poznań;POL
+Data Engineer-Senior;AVENGA;python;data engineer;18 480;20 160;PLN;Zdalna;N/A
+Data Engineer (Microsoft);Onwelo S.A.;N/A;data engineer;13 650;17 850;PLN;Zdalna;N/A
+Senior Data Engineer;Acaisoft Poland Sp. z.o.o;python;data engineer;19 000;25 000;PLN;Zdalna;N/A
+Mid Data Engineer;Acaisoft Poland Sp. z.o.o;python;data engineer;12 000;19 000;PLN;Zdalna;N/A
+Data Engineer-Pofessional;AVENGA;python;data engineer;13 440;16 800;PLN;Zdalna;N/A
+Data Engineer;Devire;N/A;data engineer;16 000;20 000;PLN;Zdalna;N/A
+Data Engineer;AVENGA;N/A;data engineer;23 520;30 240;PLN;Zdalna;N/A
+Senior/Expert Azure Data Engineer;Capgemini;N/A;data engineer;13 000;20 000;PLN;Wrocław;POL
+Senior/Expert AWS Data Engineer;Capgemini;aws;data engineer;13 000;20 000;PLN;Wrocław;POL
+Data Software Engineer;GetInData;java;data engineer;20 160;30 240;PLN;Zdalna;N/A
+Data Engineer;Ringier Axel Springer Tech;python;data engineer;10 100;16 900;PLN;Zdalna;N/A
+Senior Scala Big Data Engineer;VirtusLab;scala;data engineer;19 000;25 000;PLN;Zdalna;N/A
+Data Engineer;Shiji Poland;spark;data engineer;15 000;20 000;PLN;Zdalna;N/A
+Data Engineer;IIIT;python;data engineer;20 000;30 000;PLN;Zdalna;N/A
+Data Engineer (Scala/Spark);Scalac;Data Engineering;data engineer;15 000;25 000;PLN;Zdalna;N/A
+Data Engineer;FLYR Poland sp.z.o.o;sql;data engineer;12 000;20 000;PLN;Kraków;POL
+Azure Data Engineer;AXA Avanssur SA Spółka Akcyjna Oddział II w Polsce;spark;data engineer;17 000;29 000;PLN;Zdalna;N/A
+Data Engineer;Blackbelt Holding Zrt;python;data engineer;12 769;21 707;PLN;Zdalna;N/A
+Data Operations Engineer;NDVR Labs Kft.;SQL;data engineer;12 769;25 538;PLN;Zdalna;N/A
+Senior Data Engineer;DATAPAO Kft.;python;data engineer;14 045;22 984;PLN;Zdalna;N/A
+Junior Data Engineer;DATAPAO Kft.;python;data engineer;7 661;9 576;PLN;Zdalna;N/A
+Data Engineer;4Digital Age Kft;python;data engineer;16 599;22 728;PLN;Budapest;HUN
+Data Engineer;IncepTech Kft.;N/A;data engineer;11 492;22 984;PLN;Budapest;HUN
+Data Infrastructure Engineer;Instructure;aws;data engineer;21 707;24 261;PLN;Budapest;HUN
+Senior Data Engineer;Nextent Informatika Zrt.;N/A;data engineer;12 769;16 599;PLN;Budapest;HUN
+Senior Data Scientist;Sii Polska;python;data scientist;18 900;25 200;PLN;Zdalna;N/A
+Senior Data Scientist;IIIT;python;data scientist;20 000;28 000;PLN;Zdalna;N/A
+Senior Data Scientist;Deloitte Advisory;SQL;data scientist;16 000;24 000;PLN;Warsaw;POL
+Remote Data Scientist;apreel Sp. z o.o.;python;data scientist;23 520;29 400;PLN;Zdalna;N/A
+Remote Senior Data Scientist;Silent Eight;python;data scientist;21 000;25 500;PLN;Zdalna;N/A
+Data Scientist;Idego Group Sp. z o.o.;python;data scientist;22 000;25 000;PLN;Zdalna;N/A
+Remote Data Scientist;Lerta;python;data scientist;15 000;22 000;PLN;Zdalna;N/A
+Data Scientist  (Wroclaw);Unit8 SA;python;data scientist;14 000;24 000;PLN;Wrocław;POL
+Senior Data Scientist / Team Lead;Link Group;N/A;data scientist;17 000;19 000;PLN;Warsaw;POL
+Data Scientist (Krakow);Unit8 SA;python;data scientist;14 000;24 000;PLN;Kraków;POL
+Expert Data Scientist;ING BANK ŚLĄSKI SPÓŁKA AKCYJNA;N/A;data scientist;10 000;16 000;PLN;Zdalna;N/A
+Lead Data Scientist;Adform Sp. z o.o.;hadoop;data scientist;22 000;30 000;PLN;Warsaw;POL
+Senior Data Scientist;Devire;N/A;data scientist;20 000;25 000;PLN;Zdalna;N/A
+Data Scientist;Devire Sp. z o.o.;python;data scientist;13 440;18 480;PLN;Zdalna;N/A
+Data Scientist (Remote);deepsense.ai Sp. z o.o.;python;data scientist;11 000;18 000;PLN;Zdalna;N/A
+Data Scientist;AVENGA;python;data scientist;15 120;24 360;PLN;Zdalna;N/A
+Associate Data Scientist;Syncron Sp. z o.o.;python;data scientist;6 500;9 500;PLN;Zdalna;N/A

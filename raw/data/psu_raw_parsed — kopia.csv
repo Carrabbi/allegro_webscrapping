@@ -1,0 +1,52 @@
+offer_id_local;page_no;offer_id;psu_power;psu_standard;psu_cert;offer_url;price;brand;rating;model;offer_title;bought;votes
+0;83;11679827542;700;ATX;Bronze;https://allegro.pl/oferta/chieftec-gpe-700s-700w-atx-12v-box-11679827542;301,18;Chieftec;4.98;GPE-700S;Zasilacz Chieftec GPE-700S 700 W;145;5100
+1;83;10514772985;750;ATX;Gold;https://allegro.pl/oferta/zasilacz-aerocool-pgs-kcas-plus-750w-rgb-80-gold-10514772985;441;Aerocool;;AEROPGSKCAS+RGB750-G;Zasilacz Aerocool KCAS PLUS GOLD 750W 750 W;2;0
+2;83;11524259577;500;ATX;Bronze;https://allegro.pl/oferta/zasilacz-pc-chieftec-500w-gpe-500s-11524259577;221,52;Chieftec;5.0;GPE-500S 500W ATX-12V BOX;Zasilacz Chieftec GPE-500S 500W ATX-12V BOX 500 W;134;58
+3;83;11717165729;1000;ATX;Platinum;https://allegro.pl/oferta/zasilacz-be-quiet-straight-power-11-platinum-1000w-11717165729;1;be quiet!;4.94;BN309;Zasilacz be quiet! BN309 1000 W;238;517
+4;83;10564961772;500;ATX;Bronze;https://allegro.pl/oferta/zasilacz-smart-bm1-500w-modular-80-bronze-10564961772;309,79;Thermaltake;5.0;PS-SPD-0500MNSABE-1;Zasilacz Thermaltake Smart BM1 500W 500 W;166;52
+5;83;11186800786;1200;ATX;Platinum;https://allegro.pl/oferta/thermaltake-zasilacz-pc-toughpower-pf1-argb-11186800786;1;Thermaltake;5.0;Toughpower PF1 ARGB;Zasilacz Thermaltake Toughpower PF1 ARGB 1200 W;235;52
+6;83;11739531741;650;ATX;Gold;https://allegro.pl/oferta/zasilacz-aerocool-kcas-plus-gold-650w-650-w-11739531741;349,6;Aerocool;;KCAS PLUS GOLD 650W;Zasilacz Aerocool KCAS PLUS GOLD 650W 650 W;90;0
+7;83;11739489849;650;ATX;Gold;https://allegro.pl/oferta/zasilacz-aerocool-kcas-plus-gold-650w-650-w-11739489849;349,6;Aerocool;;KCAS PLUS GOLD 650W;Zasilacz Aerocool KCAS PLUS GOLD 650W 650 W;56;0
+8;83;11718733678;750;ATX;Gold;https://allegro.pl/oferta/zasilacz-tx750m-750w-80-gold-s-modular-atx-eu-11718733678;534,99;Corsair;5.0;TXM Series 750W 80 Plus;Zasilacz Corsair TXM Series 750W 80 Plus 750 W;128;533
+9;83;10808855146;850;ATX;Platinum;https://allegro.pl/oferta/chieftec-gpu-850fc-850w-powerplay-10808855146;770,86;Chieftec;5.0;PowerPlay;Zasilacz Chieftec PowerPlay 850 W;124;53
+10;83;11666505772;550;ATX;Gold;https://allegro.pl/oferta/silentiumpc-supremo-l2-550w-80-gold-psu-11666505772;293,16;SilentiumPC;4.98;Supremo L2 Gold;Zasilacz SilentiumPC Supremo L2 Gold 550 W;218;5100
+11;83;10731068910;750;ATX;Gold;https://allegro.pl/oferta/thermaltake-zasilacz-toughpower-grand-750w-10731068910;652,05;Thermaltake;5.0;Toughpower Grand RGB 750W;Zasilacz Thermaltake Toughpower Grand RGB 750W 750 W;282;58
+12;83;10721300955;550;ATX;Bronze;https://allegro.pl/oferta/zasilacz-smart-bx1-rgb-550w-80-bronze-230v-eu-10721300955;291,63;Thermaltake;5.0;PS-SPR-0550NHSABE-1;Zasilacz Thermaltake PS-SPR-0550NHSABE-1 550 W;200;52
+13;83;10724326141;650;ATX;Gold;https://allegro.pl/oferta/zasilacz-cooler-master-v650-gold-v2-650w-80-gold-10724326141;599;Cooler Master;;V650 Gold-V2 White Edition;Zasilacz Cooler Master V650 Gold-V2 White Edition 650 W;274;0
+14;83;10731055010;750;ATX;Gold;https://allegro.pl/oferta/thermaltake-zasilacz-gf1-750w-modular-80-gold-10731055010;656,25;Thermaltake;;Toughpower GF1 TT Premium;Zasilacz Thermaltake Toughpower GF1 TT Premium 750 W;227;0
+15;83;10758687677;550;ATX;Bronze;https://allegro.pl/oferta/aerocool-zasilacz-lux-rgb-550w-80-bronze-10758687677;242,2;Aerocool;5.0;LUX 550W RGB;Zasilacz Aerocool LUX 550W RGB 550 W;207;55
+16;83;10758690343;600;ATX;Gold;https://allegro.pl/oferta/zasilacz-bbs-600s-600w-80plus-gold-120mm-atx-10758690343;358,4;Chieftec;5.0;BBS-600S;Zasilacz Chieftec BBS-600S 600 W;163;523
+17;83;11133003486;750;ATX;Gold;https://allegro.pl/oferta/zasilacz-corsair-rm750-2021-bialy-750w-11133003486;618,99;Corsair;;RPS0119;Zasilacz Corsair RPS0119 750 W;249;0
+18;83;11138412412;450;ATX;Gold;https://allegro.pl/oferta/zasilacz-toughpower-sfx-450w-modular-80-gold-11138412412;457,3;Thermaltake;5.0;PS-STP-0450FNFAGE-1;Zasilacz Thermaltake PS-STP-0450FNFAGE-1 450 W;68;51
+19;83;11138709191;450;ATX;Gold;https://allegro.pl/oferta/zasilacz-toughpower-sfx-450w-modular-80-gold-11138709191;457,55;Thermaltake;5.0;PS-STP-0450FNFAGE-1;Zasilacz Thermaltake PS-STP-0450FNFAGE-1 450 W;140;51
+20;83;11321555674;1500;ATX;Titanium;https://allegro.pl/oferta/be-quiet-zasilacz-dark-power-pro-12-1500w-11321555674;2;be quiet!;5.0;Dark Power Pro 12 1500W;Zasilacz be quiet! Dark Power Pro 12 1500W 1500 W;13;514
+21;83;10633268655;850;ATX;Platinum;https://allegro.pl/oferta/zasilacz-pc-asus-850w-rog-strix-850g-10633268655;1;ASUS;5.0;ROG-STRIX-850G;Zasilacz ASUS ROG-STRIX-850G 850 W;60;53
+22;83;11666522724;750;ATX;Gold;https://allegro.pl/oferta/zasilacz-rm750x-750w-80-gold-f-modular-atx-eu-11666522724;580,69;Corsair;5.0;RM750x;Zasilacz Corsair RM750x 750 W;150;517
+23;83;11666550347;630;ATX;Gold;https://allegro.pl/oferta/zasilacz-smart-se-630w-modular-sprawnosc-11666550347;381,59;Thermaltake;4.5;Smart SE 630W Modular;Zasilacz Thermaltake Smart SE 630W Modular 630 W;209;52
+24;83;11139954320;550;ATX;Bronze;https://allegro.pl/oferta/zasilacz-p550b-550w-pfc-120mm-hydraulic-fan-atx-11139954320;212,16;Gigabyte;5.0;P550B;Zasilacz Gigabyte P550B 550 W;77;58
+25;83;10758672159;600;ATX;Gold;https://allegro.pl/oferta/zasilacz-pure-power-11-600w-80-gold-n-modu-bn294-10758672159;428,5;be quiet!;5.0;Pure Power 11 BN294;Zasilacz be quiet! Pure Power 11 BN294 600 W;163;522
+26;83;11731240853;700;ATX;Gold;https://allegro.pl/oferta/zasilacz-pc-be-quiet-700w-bn299-11731240853;521,4;be quiet!;4.95;Pure Power 11 CM 700W BN299;Zasilacz be quiet! Pure Power 11 CM 700W BN299 700 W;178;520
+27;83;10808857829;750;ATX;Bronze;https://allegro.pl/oferta/smart-pro-rgb-750w-modular-80-bronze-4xpeg-10808857829;519,27;Thermaltake;5.0;Smart Pro RGB;Zasilacz Thermaltake Smart Pro RGB 750 W;281;54
+28;83;10779252373;850;ATX;Gold;https://allegro.pl/oferta/zasilacz-straight-power-11-850w-80-gold-f-modu-10779252373;799,99;be quiet!;4.9;BN284;Zasilacz be quiet! Straight Power 11 850W 80+ Gold BN284 850 W;124;529
+29;83;10717258189;400;ATX;Bronze;https://allegro.pl/oferta/lc-power-zasilacz-400w-lc500-12-v2-31-80-bronze-10717258189;194,81;LC Power;;LC500-12 V2.31 80+;LC-POWER ZASILACZ 400W LC500-12 V2.31 80+ BRONZE;282;0
+30;83;10745600381;750;ATX;Gold;https://allegro.pl/oferta/gigabyte-gp-ap750gm-atx-80-plus-gold-certified-10745600381;542,16;Gigabyte;5.0;GP-AP750GM;Zasilacz Gigabyte GP-AP750GM 750 W;179;51
+31;83;11009426404;750;ATX;Platinum;https://allegro.pl/oferta/corsair-fully-modular-psu-hx750-professional-plati-11009426404;1;Corsair;5.0;HX Series;Zasilacz Corsair HX Series 750 W;98;520
+32;83;11041722622;600;ATX;Bronze;https://allegro.pl/oferta/zasilacz-be-quiet-system-power-9-cm-600w-120mm-80-11041722622;351,92;be quiet!;4.9;System Power 9;Zasilacz be quiet! System Power 9 600 W;217;510
+33;83;11041742747;750;ATX;Gold;https://allegro.pl/oferta/corsair-zasilacz-rm750x-750w-80-gold-f-modular-atx-11041742747;593,6;Corsair;5.0;RM750x;Zasilacz Corsair RM750x 750 W;0;517
+34;83;11139955813;450;ATX;Gold;https://allegro.pl/oferta/zasilacz-toughpower-sfx-450w-modular-80-gold-11139955813;442,57;Thermaltake;5.0;PS-STP-0450FNFAGE-1;Zasilacz Thermaltake PS-STP-0450FNFAGE-1 450 W;90;51
+35;83;11129225020;550;ATX;Bronze;https://allegro.pl/oferta/gigabyte-zasilacz-do-pc-p550b-550w-pfc-120mm-11129225020;239;Gigabyte;5.0;P550B;Zasilacz Gigabyte P550B 550 W;211;58
+36;83;11130847434;650;ATX;Bronze;https://allegro.pl/oferta/zasilacz-pc-corsair-650w-cp-9020217-eu-11130847434;427,08;Corsair;4.69;CX650F;Zasilacz Corsair CX650F 650 W;227;513
+37;83;11119154022;750;ATX;Gold;https://allegro.pl/oferta/zasilacz-tx750m-750w-80-gold-s-modular-atx-eu-11119154022;530,17;Corsair;5.0;TXM Series 750W 80 Plus;Zasilacz Corsair TXM Series 750W 80 Plus 750 W;199;533
+38;83;11119130964;1000;ATX;Gold;https://allegro.pl/oferta/zasilacz-lc-power-1000w-lc1000m-v2-31-80-gold-11119130964;873,86;LC Power;;LC1000M V2.31;Zasilacz LC-POWER 1000W LC1000M V2.31 80+GOLD;131;0
+39;83;11119140476;650;ATX;Gold;https://allegro.pl/oferta/zasilacz-ion-sfx-l-650w-80plus-gold-modularny-11119140476;807,23;Fractal Design;;Ion;Zasilacz Ion SFX-L 650W 80PLUS Gold Modularny;42;0
+40;83;11208808634;530;ATX;Bronze;https://allegro.pl/oferta/smart-se-530w-modular-sprawnosc-80-bronze-11208808634;285,9;Thermaltake;5.0;SPS-530M;Zasilacz Thermaltake SPS-530M 530 W;29;512
+41;83;10911931946;600;ATX;Bronze;https://allegro.pl/oferta/be-quiet-zasilacz-system-power-9-600w-80-bronze-10911931946;297,05;be quiet!;4.96;System Power 9;Zasilacz be quiet! System Power 9 600 W;295;5113
+42;83;10862327369;750;ATX;Gold;https://allegro.pl/oferta/zasilacz-be-quiet-straight-power-11-gold-bn283-10862327369;632,15;be quiet!;5.0;Straight Power 11;Zasilacz be quiet! Straight Power 11 750 W;237;554
+43;83;10896122823;850;ATX;Gold;https://allegro.pl/oferta/zasilacz-straight-power-11-850w-80-gold-f-modu-10896122823;758,64;be quiet!;4.9;Straight Power 11 850W 80+ Gold BN284;Zasilacz be quiet! Straight Power 11 850W 80+ Gold BN284 850 W;41;529
+44;83;10846312311;500;ATX;Bronze;https://allegro.pl/oferta/chieftec-gpe-500s-500w-atx-12v-box-10846312311;234,99;Chieftec;5.0;GPE-500S 500W ATX-12V BOX;Zasilacz Chieftec GPE-500S 500W ATX-12V BOX 500 W;10;58
+45;83;10817369103;550;ATX;Gold;https://allegro.pl/oferta/zasilacz-be-quiet-pure-power-11-550w-fm-120mm-10817369103;446,81;be quiet!;5.0;PURE POWER 11 550W FM;Zasilacz be quiet! PURE POWER 11 550W FM 550 W;48;52
+46;83;11493111157;850;ATX;Platinum;https://allegro.pl/oferta/chieftec-zasilacz-gpu-850fc-850w-powerplay-11493111157;702,4;Chieftec;5.0;PowerPlay;Zasilacz Chieftec PowerPlay 850 W;294;53
+47;83;11154176369;750;ATX;Gold;https://allegro.pl/oferta/zasilacz-gpx-750fc-750w-powerup-80plus-gold-11154176369;469,95;Chieftec;5.0;GPX-750FC;Zasilacz Chieftec GPX-750FC 750 W;233;55
+48;83;11689490371;700;ATX;Bronze;https://allegro.pl/oferta/chieftec-gpe-700s-700w-atx-12v-box-11689490371;311,77;Chieftec;4.98;GPE-700S;Zasilacz Chieftec GPE-700S 700 W;70;5100
+49;83;11689492769;850;ATX;Gold;https://allegro.pl/oferta/zasilacz-toughpower-grand-rgb-sync-850w-mod-11689492769;765,14;Thermaltake;;PS-TPG-0850FPCGEU-S;Zasilacz Thermaltake Toughpower Grand RGB Sync 850 W;267;0
+50;83;10797545260;850;ATX;Gold;https://allegro.pl/oferta/thermaltake-zasilacz-toughpower-gf1-850w-80-gold-10797545260;777;Thermaltake;5.0;ToughPower GF1;Zasilacz Thermaltake ToughPower GF1 850 W;31;512
